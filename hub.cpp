@@ -12,7 +12,7 @@ string printHi() {
 int main() {
 	
 	cout << printHi();
-	cout << "ayeqq";
+	cout << "ayeqqnn";
 
 	return 0;
 }
