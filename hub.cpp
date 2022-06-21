@@ -10,7 +10,7 @@ string mo2asMasseage(){
 }
 string mostasMassage() {
 
-	return "mo2a pls make a function!";
+	return "kosmk ya hegab bawzt el code!";
 }
 int main() {
 	cout << mostasMassage();
