@@ -3,7 +3,7 @@
 #include <string>
 using namespace std;
 string DrMe3za() {
-	return "ana aho ya regala" ;
+	return "yabn el mtnaka ana kalemtak ya bta3 el java enta!!?" ;
 }
 string mo2asMasseage(){
 	return "I made a Function!!!";
