@@ -3,18 +3,18 @@
 #include <string>
 using namespace std;
 string DrMe3za() {
-	return "yabn el mtnaka ana kalemtak ya bta3 el java enta!!?" ;
+	return "yabn el mtnaka ana kalemtak ya bta3 el java enta!!?"  ;
 }
 string mo2asMasseage(){
-	return "I made a Function!!!";
+	return "I made a Function!!!" ;
 }
 string mostasMassage() {
 
-	return "kosmk ya hegab bawzt el code!";
+	return "kosmk ya hegab bawzt el code!" ;
 }
 int main() {
-	cout << mostasMassage();
-	cout << mo2asMasseage();
-	cout << DrMe3za() ;
+	cout << mostasMassage() << endl ;
+	cout << mo2asMasseage() << endl ;
+	cout << DrMe3za() << endl ;
 	return 0;
 }
