@@ -16,5 +16,8 @@ int main() {
 	cout << mostasMassage() << endl ;
 	cout << mo2asMasseage() << endl ;
 	cout << DrMe3za() << endl ;
+	for(int i{1} ; i < 2 ; i) {
+		cout << "ksom mosta" << endl ;
+	}
 	return 0;
 }
