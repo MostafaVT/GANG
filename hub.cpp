@@ -5,7 +5,7 @@
 using namespace std;
 
 string mo2asMasseage(){
-	return "I made a Function!!";
+	return "I made a Function!!!";
 }
 
 string mostasMassage() {
