@@ -6,7 +6,7 @@ string DrMe3za() {
 	return "yabn el mtnaka ana kalemtak ya bta3 el java enta!!?"  ;
 }
 string mo2asMasseage(){
-	return "I made a Function!!!" ;
+	return "by2olk mara wa7d s3ydy" ;
 }
 string mostasMassage() {
 
