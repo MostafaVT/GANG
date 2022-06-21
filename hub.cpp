@@ -4,15 +4,14 @@
 
 using namespace std;
 
-string printHi() {
+string mostasMassage() {
 
-	return "Hi";
+	return "mo2a pls make a function!";
 }
 
 int main() {
 	
-	cout << printHi();
-	cout << "ayeqq";
-
+	cout << mostasMassage();
+	
 	return 0;
 }
