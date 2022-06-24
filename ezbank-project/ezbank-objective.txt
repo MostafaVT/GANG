@@ -1,0 +1,13 @@
+Main objectives:
+login---signup
+1- Withdraw:
+        check()                              //bnshof n3rf ns7b wla la2
+        opreation()                          //n5sm el ets7b
+
+
+2- Deposit:
+        opreation()                          //nzwd el flows
+
+3- Show account statment:
+
+        data.dispaly()                       //nshof el rsyd el f el acc

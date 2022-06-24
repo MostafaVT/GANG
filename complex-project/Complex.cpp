@@ -60,6 +60,9 @@ int main(){
     Complex Mycomplex3(73);
     Complex Mycomplex4(10,5);
 
+
+    //Complex *c;
+
     // ____________________TESTING____________________
 
     Mycomplex1.display();
@@ -73,6 +76,9 @@ int main(){
     Mycomplex4.setImg(7);
 
     Mycomplex4.display();
+
+    
+    //c->display();
     
     return 0;
 }
