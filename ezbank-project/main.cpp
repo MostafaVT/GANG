@@ -19,7 +19,7 @@ int main(){
     }
     fclose(y);
 
-    Bank account1(100);
+    
 
     return 0;
 }
