@@ -31,11 +31,11 @@ class Complex{
             return imgPart;
         }
         // "Setters"
-        void setReal(int x ,Complex com){                   
-            com.realPart = x;
+        void setReal(int x){                   
+            realPart = x;
         }
-        void setImg(int x ,Complex com){
-            com.imgPart = x;
+        void setImg(int x){
+            imgPart = x;
         }
         // Displaying 
         void display(){                         
@@ -58,14 +58,21 @@ int main(){
     Complex Mycomplex1(5,3);
     Complex Mycomplex2(0,0);
     Complex Mycomplex3(73);
+    Complex Mycomplex4(10,5);
 
     // ____________________TESTING____________________
 
     Mycomplex1.display();
     Mycomplex2.display();
     Mycomplex3.display();
+    Mycomplex4.display();
     
-    cout << Mycomplex1.getImgOf()<<endl;
+    //cout << Mycomplex1.getImgOf()<<endl;
+
+    Mycomplex4.setReal(22);
+    Mycomplex4.setImg(7);
+
+    Mycomplex4.display();
     
     return 0;
 }
